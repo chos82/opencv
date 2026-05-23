@@ -23,15 +23,32 @@ def detect_bounding_box(vid):
         print('NOOOOOOO')
     else:
         print(str(len(faces)) + 'YAAAAY')
+        
     return faces
 
 def draw_bounding_box(frame, detected_objects):
     for (x,y,w,h) in detected_objects:
         cv.rectangle(frame, (x, y), (x + w, y + h), (0, 255, 0), 4)
+        
+def np2builtin(a):
+    print( a )
+    print(e)
+    while e in a[0]:
+        print(e)
 
 
-# @TODO   
+# @TODO
+# @returns largest bounding box of frames l1, l2
 def max_bb(l1, l2):
+    print('TYPE of l1: ' + str(type(l1)))
+    print('TYPE of l2: ' + str(type(l2)))
+    #np2builtin(l2.shape)
+    
+    if( type(l1) != type(np.ndarray.__class__) and 
+       (type(l2)) != type(np.__class__) ):
+        print('type-missmatch')
+        return []
+    
     if(l1==[]):
         return l2
     if(l2==[]):
@@ -44,6 +61,9 @@ def max_bb(l1, l2):
             w = w1 if w1>w2 else w2
             h = h1 if h1>h2 else h2
             l+=[x,y,w,h]
+    print('max_bb')
+    print('type of ret:')
+    print(type(l))
     return l
 
 while True:
@@ -57,13 +77,27 @@ while True:
     # Our operations on the frame come here
     gray = cv.cvtColor(frame, cv.COLOR_BGR2GRAY)
 
+    # detct and draw bounding box
     draw = []
     detected_objects = detect_bounding_box(frame)
+    
+    #print('type of detected object: ' + str(type( detected_objects )))
+    size = np.size(detected_objects)
+    print('sizeOf detected Objects-np.array: ' + str(size))
+    detected_objects[0:0]
+    print('detected objects:')
+    print(detected_objects);
+    #shape = type(detected_objects.shape)
+    #print('type:')
+    #print(shape)
+    
     draw_bounding_box(frame, detected_objects)
-    #draw += max_bb(draw, detected_objects)
+    draw += max_bb(draw, detected_objects)
+    draw_bounding_box(frame, draw)
+    
     
     # Find Canny edges 
-    edged = cv.Canny(frame, 30, 200) 
+    #edged = cv.Canny(frame, 30, 200) 
     
     # Finding Contours 
     # Use a copy of the image e.g. edged.copy()
