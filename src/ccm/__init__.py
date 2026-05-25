@@ -7,6 +7,31 @@ CamCaptureManipulation
 import numpy as np
 import cv2 as cv
 
+import logging
+
+# create logger with 'spam_application'
+logger = logging.getLogger('cam-cap')
+logger.setLevel(logging.DEBUG)
+# create file handler which logs even debug messages
+fh = logging.FileHandler('cam-cap.log')
+fh.setLevel(logging.DEBUG)
+# create console handler with a higher log level
+ch = logging.StreamHandler()
+ch.setLevel(logging.INFO)
+# create formatter and add it to the handlers
+formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+fh.setFormatter(formatter)
+ch.setFormatter(formatter)
+# add the handlers to the logger
+logger.addHandler(fh)
+logger.addHandler(ch)
+
+sep = '######################################'
+logger.info(sep)
+logger.info('starting cam capture manipulator')
+logger.info(sep)
+
+
 cap = cv.VideoCapture(0)
 if not cap.isOpened():
     print("Cannot open camera")
@@ -20,9 +45,10 @@ def detect_bounding_box(vid):
     gray_image = cv.cvtColor(vid, cv.COLOR_BGR2GRAY)
     faces = face_classifier.detectMultiScale(gray_image, 1.1, 5, minSize=(40, 40))
     if(len(faces)==0):
-        print('NOOOOOOO')
+        logger.info('no detectable found')
     else:
-        print(str(len(faces)) + 'YAAAAY')
+        n = str(len(faces))
+        logger.info(n + ' detectable objects found')
         
     return faces
 
@@ -30,41 +56,56 @@ def draw_bounding_box(frame, detected_objects):
     for (x,y,w,h) in detected_objects:
         cv.rectangle(frame, (x, y), (x + w, y + h), (0, 255, 0), 4)
         
-def np2builtin(a):
-    print( a )
-    print(e)
-    while e in a[0]:
-        print(e)
-
 
 # @TODO
 # @returns largest bounding box of frames l1, l2
-def max_bb(l1, l2):
-    print('TYPE of l1: ' + str(type(l1)))
-    print('TYPE of l2: ' + str(type(l2)))
-    #np2builtin(l2.shape)
+def max_bb(l1, l2=[]):
+    l = []
+    if(isinstance(l1, np.ndarray)):
+        l = l1
+    if(isinstance(l2, np.ndarray)):
+        l = l2
+        
+    x = l.shape[0]
+    y = l.shape[1]
     
-    if( type(l1) != type(np.ndarray.__class__) and 
-       (type(l2)) != type(np.__class__) ):
-        print('type-missmatch')
-        return []
+    if(isinstance(l1, np.ndarray) and isinstance(l2, np.ndarray)):
+        logger.info('???????????')
     
-    if(l1==[]):
-        return l2
-    if(l2==[]):
-        return l1
-    l=[]
-    for(x1,y1,w1,h1) in l1:
-        for (x2, y2, w2, h2) in l2:
-            x = x1 if x1<x2 else x2
-            y = y1 if y1<y2 else y2
-            w = w1 if w1>w2 else w2
-            h = h1 if h1>h2 else h2
-            l+=[x,y,w,h]
-    print('max_bb')
-    print('type of ret:')
-    print(type(l))
-    return l
+    #TODO
+    
+    logger.info('now its unwrapped')    
+    logger.info(x[0])
+    
+    return ret
+
+def unwrap_numpy(a):
+    if(not isinstance(a, np.ndarray)):
+        logger.info('type missmatch', 'f:unwrapping')
+        raise Exception('type missmatch', 'f:unwrapping')
+
+    logger.info(a[0][0])
+    t=type(int(a[0][0]))
+    
+    
+    #'CONTINUE'
+    
+    
+    
+    logger.info('ööööööö')
+    logger.info(t)
+
+    x = int(a[0][0])
+    y = int(a[0][1])
+    w = int(a[0][2])
+    h = int(a[0][3])
+
+    logger.info('x,y,w,h')
+    print(x)
+    logger.info(x)
+    
+    return (x,y,w,h)
+    
 
 while True:
     # Capture frame-by-frame
@@ -81,18 +122,10 @@ while True:
     draw = []
     detected_objects = detect_bounding_box(frame)
     
-    #print('type of detected object: ' + str(type( detected_objects )))
-    size = np.size(detected_objects)
-    print('sizeOf detected Objects-np.array: ' + str(size))
-    detected_objects[0:0]
-    print('detected objects:')
-    print(detected_objects);
-    #shape = type(detected_objects.shape)
-    #print('type:')
-    #print(shape)
-    
     draw_bounding_box(frame, detected_objects)
-    draw += max_bb(draw, detected_objects)
+    
+    _f = unwrap_numpy(frame)
+    draw += max_bb(frame)
     draw_bounding_box(frame, draw)
     
     

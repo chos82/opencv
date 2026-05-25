@@ -1,0 +1,754 @@
+2026-05-25 10:15:29,910 - cam-cap - INFO - creating an instance of auxiliary_module.Auxiliary
+2026-05-25 10:18:59,866 - cam-cap - INFO - creating an instance of auxiliary_module.Auxiliary
+2026-05-25 10:19:07,948 - cam-cap - INFO - 1detectable objects found
+2026-05-25 10:19:08,031 - cam-cap - INFO - 1detectable objects found
+2026-05-25 10:19:08,063 - cam-cap - INFO - 1detectable objects found
+2026-05-25 10:19:08,118 - cam-cap - INFO - 1detectable objects found
+2026-05-25 10:19:08,153 - cam-cap - INFO - 1detectable objects found
+2026-05-25 10:19:08,199 - cam-cap - INFO - 1detectable objects found
+2026-05-25 10:19:08,238 - cam-cap - INFO - 2detectable objects found
+2026-05-25 10:19:08,283 - cam-cap - INFO - 2detectable objects found
+2026-05-25 10:19:08,314 - cam-cap - INFO - 2detectable objects found
+2026-05-25 10:19:08,344 - cam-cap - INFO - 1detectable objects found
+2026-05-25 10:19:08,379 - cam-cap - INFO - 1detectable objects found
+2026-05-25 10:19:08,414 - cam-cap - INFO - 1detectable objects found
+2026-05-25 10:19:08,460 - cam-cap - INFO - 1detectable objects found
+2026-05-25 10:19:08,518 - cam-cap - INFO - 2detectable objects found
+2026-05-25 10:19:08,554 - cam-cap - INFO - 1detectable objects found
+2026-05-25 10:19:08,603 - cam-cap - INFO - 2detectable objects found
+2026-05-25 10:19:08,670 - cam-cap - INFO - 2detectable objects found
+2026-05-25 10:19:08,706 - cam-cap - INFO - 2detectable objects found
+2026-05-25 10:19:08,742 - cam-cap - INFO - 2detectable objects found
+2026-05-25 10:19:08,775 - cam-cap - INFO - 1detectable objects found
+2026-05-25 10:19:08,819 - cam-cap - INFO - 1detectable objects found
+2026-05-25 10:19:08,866 - cam-cap - INFO - 1detectable objects found
+2026-05-25 10:19:08,933 - cam-cap - INFO - 1detectable objects found
+2026-05-25 10:19:08,993 - cam-cap - INFO - 1detectable objects found
+2026-05-25 10:19:09,054 - cam-cap - INFO - 1detectable objects found
+2026-05-25 10:19:09,089 - cam-cap - INFO - 2detectable objects found
+2026-05-25 10:19:09,135 - cam-cap - INFO - 2detectable objects found
+2026-05-25 10:19:09,191 - cam-cap - INFO - 2detectable objects found
+2026-05-25 10:19:09,224 - cam-cap - INFO - 2detectable objects found
+2026-05-25 10:19:09,257 - cam-cap - INFO - 1detectable objects found
+2026-05-25 10:19:09,288 - cam-cap - INFO - 2detectable objects found
+2026-05-25 10:19:09,324 - cam-cap - INFO - 1detectable objects found
+2026-05-25 10:19:09,388 - cam-cap - INFO - 2detectable objects found
+2026-05-25 10:19:09,443 - cam-cap - INFO - 2detectable objects found
+2026-05-25 10:19:09,482 - cam-cap - INFO - 2detectable objects found
+2026-05-25 10:19:09,525 - cam-cap - INFO - no detectable found
+2026-05-25 10:19:09,563 - cam-cap - INFO - no detectable found
+2026-05-25 10:19:09,628 - cam-cap - INFO - no detectable found
+2026-05-25 10:19:09,682 - cam-cap - INFO - no detectable found
+2026-05-25 10:19:09,715 - cam-cap - INFO - no detectable found
+2026-05-25 10:19:09,750 - cam-cap - INFO - no detectable found
+2026-05-25 10:19:09,797 - cam-cap - INFO - no detectable found
+2026-05-25 10:19:09,846 - cam-cap - INFO - no detectable found
+2026-05-25 10:19:09,886 - cam-cap - INFO - no detectable found
+2026-05-25 10:19:09,921 - cam-cap - INFO - no detectable found
+2026-05-25 10:19:09,979 - cam-cap - INFO - no detectable found
+2026-05-25 10:19:10,012 - cam-cap - INFO - no detectable found
+2026-05-25 10:19:10,047 - cam-cap - INFO - no detectable found
+2026-05-25 10:19:10,089 - cam-cap - INFO - no detectable found
+2026-05-25 10:19:10,120 - cam-cap - INFO - no detectable found
+2026-05-25 10:19:10,153 - cam-cap - INFO - no detectable found
+2026-05-25 10:19:10,183 - cam-cap - INFO - no detectable found
+2026-05-25 10:19:10,220 - cam-cap - INFO - no detectable found
+2026-05-25 10:19:10,279 - cam-cap - INFO - no detectable found
+2026-05-25 10:19:10,312 - cam-cap - INFO - no detectable found
+2026-05-25 10:19:10,372 - cam-cap - INFO - no detectable found
+2026-05-25 10:19:10,411 - cam-cap - INFO - no detectable found
+2026-05-25 10:19:10,462 - cam-cap - INFO - no detectable found
+2026-05-25 10:20:24,648 - cam-cap - INFO - creating an instance of auxiliary_module.Auxiliary
+2026-05-25 10:20:32,638 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:20:32,638 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:20:32,712 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:20:32,712 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:20:32,747 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:20:32,748 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:20:32,796 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:20:32,796 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:20:32,839 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:20:32,840 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:20:32,886 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:20:32,887 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:20:32,939 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:20:32,940 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:20:32,988 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:20:32,988 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:20:33,027 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:20:33,027 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:20:33,063 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:20:33,063 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:20:33,109 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:20:33,110 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:20:33,157 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:20:33,158 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:20:33,201 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:20:33,202 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:20:33,257 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:20:33,258 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:20:33,295 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:20:33,296 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:20:33,358 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:20:33,359 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:20:33,417 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:20:33,418 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:20:33,456 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:20:33,456 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:20:33,506 - cam-cap - INFO - no detectable found
+2026-05-25 10:20:33,506 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:20:33,560 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:20:33,561 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:20:33,595 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:20:33,595 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:20:33,655 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:20:33,656 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:20:33,717 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:20:33,718 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:20:33,750 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:20:33,751 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:02,055 - cam-cap - INFO - #############################
+2026-05-25 10:22:02,056 - cam-cap - INFO - starting cam capture manipulator
+2026-05-25 10:22:02,056 - cam-cap - INFO - #############################
+2026-05-25 10:22:09,960 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:09,960 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:10,018 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:10,019 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:10,063 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:10,064 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:10,099 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:10,099 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:10,141 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:10,142 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:10,184 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:10,185 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:10,238 - cam-cap - INFO - no detectable found
+2026-05-25 10:22:10,238 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:10,280 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:10,281 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:10,328 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:10,328 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:10,377 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:10,377 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:10,424 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:10,425 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:10,466 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:10,466 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:10,511 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:10,512 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:10,543 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:10,543 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:10,575 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:10,575 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:10,626 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:10,626 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:10,663 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:10,664 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:10,704 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:10,704 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:10,747 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:10,747 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:10,799 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:10,799 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:10,828 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:10,829 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:10,859 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:10,859 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:10,907 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:10,907 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:10,968 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:10,969 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:11,018 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:11,019 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:11,050 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:11,050 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:11,097 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:11,098 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:11,177 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:11,178 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:11,222 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:11,222 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:11,270 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:11,271 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:11,314 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:11,314 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:11,364 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:11,365 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:11,410 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:11,410 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:11,455 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:11,456 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:11,502 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:11,502 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:11,546 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:11,547 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:11,597 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:11,597 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:11,643 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:11,643 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:11,692 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:11,692 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:11,741 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:11,742 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:11,782 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:11,783 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:11,827 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:11,827 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:11,862 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:11,862 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:11,892 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:11,892 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:11,937 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:11,938 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:11,971 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:11,972 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:12,019 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:12,019 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:12,063 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:12,064 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:12,097 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:12,097 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:12,132 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:12,133 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:12,177 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:12,177 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:12,205 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:12,206 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:12,240 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:12,240 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:12,289 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:12,290 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:12,335 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:12,335 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:12,382 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:12,383 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:12,443 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:12,443 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:12,478 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:12,479 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:12,524 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:12,525 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:12,573 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:12,574 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:12,616 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:12,617 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:12,678 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:12,679 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:12,711 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:12,712 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:12,775 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:12,776 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:12,832 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:12,832 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:12,876 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:12,877 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:12,912 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:12,913 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:12,941 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:12,941 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:12,974 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:12,974 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:13,007 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:13,008 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:13,073 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:13,073 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:13,138 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:13,138 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:13,184 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:13,184 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:13,228 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:13,229 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:13,272 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:13,273 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:13,321 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:13,321 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:13,366 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:13,367 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:13,429 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:13,430 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:13,469 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:13,469 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:13,502 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:13,503 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:13,533 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:13,534 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:13,566 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:13,567 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:13,612 - cam-cap - INFO - no detectable found
+2026-05-25 10:22:13,612 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:13,645 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:13,645 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:13,692 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:13,692 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:13,740 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:13,740 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:13,789 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:13,789 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:13,836 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:13,836 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:13,883 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:13,884 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:13,938 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:13,939 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:13,973 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:13,973 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:14,009 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:14,009 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:14,043 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:14,044 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:14,088 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:14,088 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:14,131 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:14,131 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:14,166 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:14,167 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:14,204 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:14,205 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:14,238 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:14,238 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:14,273 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:14,274 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:14,330 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:14,330 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:14,366 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:14,366 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:14,405 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:14,405 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:14,441 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:14,441 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:14,478 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:14,479 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:14,524 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:14,524 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:14,570 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:14,570 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:14,633 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:14,634 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:14,693 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:14,694 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:14,755 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:14,756 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:14,788 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:14,789 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:14,834 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:14,835 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:14,883 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:14,883 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:14,917 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:14,918 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:14,963 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:14,963 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:15,030 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:15,030 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:15,089 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:15,090 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:15,142 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:15,143 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:15,203 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:15,204 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:15,240 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:15,240 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:15,278 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:15,279 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:15,327 - cam-cap - INFO - DETdetectable objects found
+2026-05-25 10:22:15,327 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:51,922 - cam-cap - INFO - ######################################
+2026-05-25 10:22:51,922 - cam-cap - INFO - starting cam capture manipulator
+2026-05-25 10:22:51,922 - cam-cap - INFO - ######################################
+2026-05-25 10:22:59,855 - cam-cap - INFO - 2DETdetectable objects found
+2026-05-25 10:22:59,855 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:59,934 - cam-cap - INFO - 1DETdetectable objects found
+2026-05-25 10:22:59,934 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:22:59,965 - cam-cap - INFO - 1DETdetectable objects found
+2026-05-25 10:22:59,966 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:23:00,005 - cam-cap - INFO - 1DETdetectable objects found
+2026-05-25 10:23:00,006 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:23:00,050 - cam-cap - INFO - 2DETdetectable objects found
+2026-05-25 10:23:00,051 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:23:00,111 - cam-cap - INFO - 2DETdetectable objects found
+2026-05-25 10:23:00,111 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:23:00,176 - cam-cap - INFO - 2DETdetectable objects found
+2026-05-25 10:23:00,176 - cam-cap - ERROR - type-missmatch
+2026-05-25 10:30:40,696 - cam-cap - INFO - ######################################
+2026-05-25 10:30:40,696 - cam-cap - INFO - starting cam capture manipulator
+2026-05-25 10:30:40,696 - cam-cap - INFO - ######################################
+2026-05-25 10:30:48,678 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 10:30:48,678 - cam-cap - INFO - ????????
+2026-05-25 10:32:31,486 - cam-cap - INFO - ######################################
+2026-05-25 10:32:31,486 - cam-cap - INFO - starting cam capture manipulator
+2026-05-25 10:32:31,486 - cam-cap - INFO - ######################################
+2026-05-25 10:32:39,113 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 10:33:47,874 - cam-cap - INFO - ######################################
+2026-05-25 10:33:47,874 - cam-cap - INFO - starting cam capture manipulator
+2026-05-25 10:33:47,874 - cam-cap - INFO - ######################################
+2026-05-25 10:33:56,164 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 10:36:04,735 - cam-cap - INFO - ######################################
+2026-05-25 10:36:04,736 - cam-cap - INFO - starting cam capture manipulator
+2026-05-25 10:36:04,736 - cam-cap - INFO - ######################################
+2026-05-25 10:36:13,018 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 10:39:58,694 - cam-cap - INFO - ######################################
+2026-05-25 10:39:58,695 - cam-cap - INFO - starting cam capture manipulator
+2026-05-25 10:39:58,695 - cam-cap - INFO - ######################################
+2026-05-25 10:40:06,711 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 10:41:28,970 - cam-cap - INFO - ######################################
+2026-05-25 10:41:28,971 - cam-cap - INFO - starting cam capture manipulator
+2026-05-25 10:41:28,971 - cam-cap - INFO - ######################################
+2026-05-25 10:41:37,194 - cam-cap - INFO - 2 detectable objects found
+2026-05-25 10:42:20,514 - cam-cap - INFO - ######################################
+2026-05-25 10:42:20,515 - cam-cap - INFO - starting cam capture manipulator
+2026-05-25 10:42:20,515 - cam-cap - INFO - ######################################
+2026-05-25 10:42:28,803 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 10:43:14,434 - cam-cap - INFO - ######################################
+2026-05-25 10:43:14,434 - cam-cap - INFO - starting cam capture manipulator
+2026-05-25 10:43:14,434 - cam-cap - INFO - ######################################
+2026-05-25 10:43:22,650 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 10:44:28,482 - cam-cap - INFO - ######################################
+2026-05-25 10:44:28,483 - cam-cap - INFO - starting cam capture manipulator
+2026-05-25 10:44:28,483 - cam-cap - INFO - ######################################
+2026-05-25 10:44:36,629 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 10:44:55,935 - cam-cap - INFO - ######################################
+2026-05-25 10:44:55,935 - cam-cap - INFO - starting cam capture manipulator
+2026-05-25 10:44:55,936 - cam-cap - INFO - ######################################
+2026-05-25 10:45:04,071 - cam-cap - INFO - no detectable found
+2026-05-25 10:48:58,005 - cam-cap - INFO - ######################################
+2026-05-25 10:48:58,005 - cam-cap - INFO - starting cam capture manipulator
+2026-05-25 10:48:58,005 - cam-cap - INFO - ######################################
+2026-05-25 10:49:06,598 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 10:49:56,051 - cam-cap - INFO - ######################################
+2026-05-25 10:49:56,051 - cam-cap - INFO - starting cam capture manipulator
+2026-05-25 10:49:56,051 - cam-cap - INFO - ######################################
+2026-05-25 10:50:04,646 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 10:50:48,679 - cam-cap - INFO - ######################################
+2026-05-25 10:50:48,679 - cam-cap - INFO - starting cam capture manipulator
+2026-05-25 10:50:48,680 - cam-cap - INFO - ######################################
+2026-05-25 10:50:57,479 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 10:50:57,479 - cam-cap - INFO - ßßßßßß
+2026-05-25 11:00:16,193 - cam-cap - INFO - ######################################
+2026-05-25 11:00:16,194 - cam-cap - INFO - starting cam capture manipulator
+2026-05-25 11:00:16,194 - cam-cap - INFO - ######################################
+2026-05-25 11:00:24,326 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 11:00:24,327 - cam-cap - INFO - l2 is an ndarray, l2:
+2026-05-25 11:01:08,476 - cam-cap - INFO - ######################################
+2026-05-25 11:01:08,476 - cam-cap - INFO - starting cam capture manipulator
+2026-05-25 11:01:08,476 - cam-cap - INFO - ######################################
+2026-05-25 11:01:16,751 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 11:01:16,751 - cam-cap - INFO - l2 is an ndarray, l2:
+2026-05-25 11:01:16,832 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 11:01:16,833 - cam-cap - INFO - l2 is an ndarray, l2:
+2026-05-25 11:01:16,868 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 11:01:16,868 - cam-cap - INFO - l2 is an ndarray, l2:
+2026-05-25 11:01:16,908 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 11:01:16,908 - cam-cap - INFO - l2 is an ndarray, l2:
+2026-05-25 11:01:16,953 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 11:01:16,954 - cam-cap - INFO - l2 is an ndarray, l2:
+2026-05-25 11:01:17,000 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 11:01:17,001 - cam-cap - INFO - l2 is an ndarray, l2:
+2026-05-25 11:01:17,070 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 11:01:17,071 - cam-cap - INFO - l2 is an ndarray, l2:
+2026-05-25 11:01:17,109 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 11:01:17,109 - cam-cap - INFO - l2 is an ndarray, l2:
+2026-05-25 11:01:17,154 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 11:01:17,154 - cam-cap - INFO - l2 is an ndarray, l2:
+2026-05-25 11:01:17,201 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 11:01:17,201 - cam-cap - INFO - l2 is an ndarray, l2:
+2026-05-25 11:01:17,244 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 11:01:17,245 - cam-cap - INFO - l2 is an ndarray, l2:
+2026-05-25 11:01:17,278 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 11:01:17,278 - cam-cap - INFO - l2 is an ndarray, l2:
+2026-05-25 11:01:17,327 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 11:01:17,327 - cam-cap - INFO - l2 is an ndarray, l2:
+2026-05-25 11:01:17,375 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 11:01:17,375 - cam-cap - INFO - l2 is an ndarray, l2:
+2026-05-25 11:01:17,417 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 11:01:17,417 - cam-cap - INFO - l2 is an ndarray, l2:
+2026-05-25 11:01:17,476 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 11:01:17,476 - cam-cap - INFO - l2 is an ndarray, l2:
+2026-05-25 11:01:17,513 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 11:01:17,514 - cam-cap - INFO - l2 is an ndarray, l2:
+2026-05-25 11:01:17,577 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 11:01:17,577 - cam-cap - INFO - l2 is an ndarray, l2:
+2026-05-25 11:01:17,638 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 11:01:17,638 - cam-cap - INFO - l2 is an ndarray, l2:
+2026-05-25 11:01:17,675 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 11:01:17,675 - cam-cap - INFO - l2 is an ndarray, l2:
+2026-05-25 11:01:17,717 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 11:01:17,717 - cam-cap - INFO - l2 is an ndarray, l2:
+2026-05-25 11:01:17,772 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 11:01:17,772 - cam-cap - INFO - l2 is an ndarray, l2:
+2026-05-25 11:01:17,812 - cam-cap - INFO - no detectable found
+2026-05-25 11:01:17,812 - cam-cap - INFO - ßßßßßß
+2026-05-25 11:01:17,866 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 11:01:17,867 - cam-cap - INFO - l2 is an ndarray, l2:
+2026-05-25 11:01:17,904 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 11:01:17,905 - cam-cap - INFO - l2 is an ndarray, l2:
+2026-05-25 11:01:17,950 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 11:01:17,950 - cam-cap - INFO - l2 is an ndarray, l2:
+2026-05-25 11:01:17,994 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 11:01:17,995 - cam-cap - INFO - l2 is an ndarray, l2:
+2026-05-25 11:01:18,028 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 11:01:18,028 - cam-cap - INFO - l2 is an ndarray, l2:
+2026-05-25 11:01:18,073 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 11:01:18,074 - cam-cap - INFO - l2 is an ndarray, l2:
+2026-05-25 11:01:18,105 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 11:01:18,106 - cam-cap - INFO - l2 is an ndarray, l2:
+2026-05-25 11:05:13,145 - cam-cap - INFO - ######################################
+2026-05-25 11:05:13,146 - cam-cap - INFO - starting cam capture manipulator
+2026-05-25 11:05:13,146 - cam-cap - INFO - ######################################
+2026-05-25 11:05:21,348 - cam-cap - INFO - no detectable found
+2026-05-25 11:05:21,348 - cam-cap - INFO - ßßßßßß
+2026-05-25 11:05:21,429 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 11:05:21,429 - cam-cap - INFO - l2 is an ndarray, l2:
+2026-05-25 11:05:21,463 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 11:05:21,463 - cam-cap - INFO - l2 is an ndarray, l2:
+2026-05-25 11:05:21,507 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 11:05:21,508 - cam-cap - INFO - l2 is an ndarray, l2:
+2026-05-25 11:05:21,554 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 11:05:21,555 - cam-cap - INFO - l2 is an ndarray, l2:
+2026-05-25 11:05:21,603 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 11:05:21,603 - cam-cap - INFO - l2 is an ndarray, l2:
+2026-05-25 11:05:21,650 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 11:05:21,651 - cam-cap - INFO - l2 is an ndarray, l2:
+2026-05-25 11:05:21,717 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 11:05:21,717 - cam-cap - INFO - l2 is an ndarray, l2:
+2026-05-25 11:05:21,756 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 11:05:21,757 - cam-cap - INFO - l2 is an ndarray, l2:
+2026-05-25 11:05:21,793 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 11:05:21,793 - cam-cap - INFO - l2 is an ndarray, l2:
+2026-05-25 11:05:21,839 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 11:05:21,840 - cam-cap - INFO - l2 is an ndarray, l2:
+2026-05-25 11:05:21,895 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 11:05:21,895 - cam-cap - INFO - l2 is an ndarray, l2:
+2026-05-25 11:05:21,933 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 11:05:21,934 - cam-cap - INFO - l2 is an ndarray, l2:
+2026-05-25 11:05:21,980 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 11:05:21,980 - cam-cap - INFO - l2 is an ndarray, l2:
+2026-05-25 11:05:22,040 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 11:05:22,041 - cam-cap - INFO - l2 is an ndarray, l2:
+2026-05-25 11:05:22,100 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 11:05:22,100 - cam-cap - INFO - l2 is an ndarray, l2:
+2026-05-25 11:05:22,168 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 11:05:22,169 - cam-cap - INFO - l2 is an ndarray, l2:
+2026-05-25 11:10:00,754 - cam-cap - INFO - ######################################
+2026-05-25 11:10:00,754 - cam-cap - INFO - starting cam capture manipulator
+2026-05-25 11:10:00,754 - cam-cap - INFO - ######################################
+2026-05-25 11:10:08,783 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 11:10:08,783 - cam-cap - INFO - l2 is an ndarray, l2:
+2026-05-25 11:10:08,784 - cam-cap - INFO - ßßßßßß
+2026-05-25 11:12:00,265 - cam-cap - INFO - ######################################
+2026-05-25 11:12:00,266 - cam-cap - INFO - starting cam capture manipulator
+2026-05-25 11:12:00,266 - cam-cap - INFO - ######################################
+2026-05-25 11:12:08,346 - cam-cap - INFO - 2 detectable objects found
+2026-05-25 11:12:08,346 - cam-cap - INFO - l2 is an ndarray, l2:
+2026-05-25 11:12:08,347 - cam-cap - INFO - ßßßßßß
+2026-05-25 11:18:22,384 - cam-cap - INFO - ######################################
+2026-05-25 11:18:22,384 - cam-cap - INFO - starting cam capture manipulator
+2026-05-25 11:18:22,384 - cam-cap - INFO - ######################################
+2026-05-25 11:18:30,390 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 11:18:30,391 - cam-cap - INFO - l is an ndarray, l:
+2026-05-25 11:22:04,027 - cam-cap - INFO - ######################################
+2026-05-25 11:22:04,027 - cam-cap - INFO - starting cam capture manipulator
+2026-05-25 11:22:04,027 - cam-cap - INFO - ######################################
+2026-05-25 11:22:12,175 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 11:22:12,175 - cam-cap - INFO - l is an ndarray, l:
+2026-05-25 11:23:00,212 - cam-cap - INFO - ######################################
+2026-05-25 11:23:00,212 - cam-cap - INFO - starting cam capture manipulator
+2026-05-25 11:23:00,212 - cam-cap - INFO - ######################################
+2026-05-25 11:23:09,559 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 11:23:09,560 - cam-cap - INFO - l is an ndarray, l:
+2026-05-25 11:23:09,560 - cam-cap - INFO - ßßßßßß
+2026-05-25 11:23:09,560 - cam-cap - INFO - x,y,w,h
+2026-05-25 11:24:41,074 - cam-cap - INFO - ######################################
+2026-05-25 11:24:41,074 - cam-cap - INFO - starting cam capture manipulator
+2026-05-25 11:24:41,074 - cam-cap - INFO - ######################################
+2026-05-25 11:24:50,032 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 11:24:50,032 - cam-cap - INFO - l is an ndarray, l:
+2026-05-25 11:24:50,033 - cam-cap - INFO - ßßßßßß
+2026-05-25 11:24:50,033 - cam-cap - INFO - x,y,w,h
+2026-05-25 11:26:29,881 - cam-cap - INFO - ######################################
+2026-05-25 11:26:29,882 - cam-cap - INFO - starting cam capture manipulator
+2026-05-25 11:26:29,882 - cam-cap - INFO - ######################################
+2026-05-25 11:26:39,013 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 11:26:39,013 - cam-cap - INFO - l is an ndarray, l:
+2026-05-25 11:26:39,014 - cam-cap - INFO - ßßßßßß
+2026-05-25 11:26:39,014 - cam-cap - INFO - x,y,w,h
+2026-05-25 11:27:58,310 - cam-cap - INFO - ######################################
+2026-05-25 11:27:58,310 - cam-cap - INFO - starting cam capture manipulator
+2026-05-25 11:27:58,310 - cam-cap - INFO - ######################################
+2026-05-25 11:28:07,422 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 11:28:07,422 - cam-cap - INFO - l is an ndarray, l:
+2026-05-25 11:28:07,423 - cam-cap - INFO - ßßßßßß
+2026-05-25 11:28:07,423 - cam-cap - INFO - x,y,w,h
+2026-05-25 11:38:28,471 - cam-cap - INFO - ######################################
+2026-05-25 11:38:28,472 - cam-cap - INFO - starting cam capture manipulator
+2026-05-25 11:38:28,472 - cam-cap - INFO - ######################################
+2026-05-25 11:38:37,758 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 11:38:37,758 - cam-cap - INFO - l is an ndarray, l:
+2026-05-25 11:38:37,759 - cam-cap - INFO - ßßßßßß
+2026-05-25 11:38:37,759 - cam-cap - INFO - x,y,w,h
+2026-05-25 11:39:08,522 - cam-cap - INFO - ######################################
+2026-05-25 11:39:08,523 - cam-cap - INFO - starting cam capture manipulator
+2026-05-25 11:39:08,523 - cam-cap - INFO - ######################################
+2026-05-25 11:39:17,407 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 11:39:17,408 - cam-cap - INFO - l is an ndarray, l:
+2026-05-25 11:39:17,408 - cam-cap - INFO - ßßßßßß
+2026-05-25 11:39:17,408 - cam-cap - INFO - x,y,w,h
+2026-05-25 11:39:17,408 - cam-cap - INFO - 212
+2026-05-25 11:51:33,125 - cam-cap - INFO - ######################################
+2026-05-25 11:51:33,126 - cam-cap - INFO - starting cam capture manipulator
+2026-05-25 11:51:33,126 - cam-cap - INFO - ######################################
+2026-05-25 11:51:41,793 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 11:51:41,794 - cam-cap - INFO - l is an ndarray, l:
+2026-05-25 11:51:41,794 - cam-cap - INFO - x,y,w,h
+2026-05-25 11:51:41,794 - cam-cap - INFO - 63
+2026-05-25 11:51:41,794 - cam-cap - INFO - now its unwrapped
+2026-05-25 11:51:41,794 - cam-cap - INFO - 63
+2026-05-25 11:51:41,878 - cam-cap - INFO - no detectable found
+2026-05-25 11:51:41,878 - cam-cap - INFO - l is an ndarray, l:
+2026-05-25 11:58:27,607 - cam-cap - INFO - ######################################
+2026-05-25 11:58:27,607 - cam-cap - INFO - starting cam capture manipulator
+2026-05-25 11:58:27,607 - cam-cap - INFO - ######################################
+2026-05-25 11:58:36,293 - cam-cap - INFO - no detectable found
+2026-05-25 12:08:01,536 - cam-cap - INFO - ######################################
+2026-05-25 12:08:01,536 - cam-cap - INFO - starting cam capture manipulator
+2026-05-25 12:08:01,537 - cam-cap - INFO - ######################################
+2026-05-25 12:08:09,947 - cam-cap - INFO - 2 detectable objects found
+2026-05-25 12:15:02,703 - cam-cap - INFO - ######################################
+2026-05-25 12:15:02,704 - cam-cap - INFO - starting cam capture manipulator
+2026-05-25 12:15:02,704 - cam-cap - INFO - ######################################
+2026-05-25 12:15:10,969 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 12:17:02,169 - cam-cap - INFO - ######################################
+2026-05-25 12:17:02,170 - cam-cap - INFO - starting cam capture manipulator
+2026-05-25 12:17:02,170 - cam-cap - INFO - ######################################
+2026-05-25 12:17:09,393 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 12:17:09,393 - cam-cap - INFO - x
+2026-05-25 12:17:29,694 - cam-cap - INFO - ######################################
+2026-05-25 12:17:29,694 - cam-cap - INFO - starting cam capture manipulator
+2026-05-25 12:17:29,694 - cam-cap - INFO - ######################################
+2026-05-25 12:17:36,530 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 12:17:36,530 - cam-cap - INFO - a
+2026-05-25 12:17:36,530 - cam-cap - INFO - [[[59 55 50]
+  [59 55 50]
+  [59 55 50]
+  ...
+  [61 58 54]
+  [61 58 54]
+  [61 58 54]]
+
+ [[62 58 53]
+  [62 58 53]
+  [62 58 53]
+  ...
+  [61 58 54]
+  [61 58 54]
+  [61 58 54]]
+
+ [[65 61 56]
+  [65 61 56]
+  [65 61 56]
+  ...
+  [61 58 54]
+  [61 58 54]
+  [61 58 54]]
+
+ ...
+
+ [[23 14  3]
+  [22 14  4]
+  [21 14  5]
+  ...
+  [ 3  3  3]
+  [ 3  3  3]
+  [ 3  3  3]]
+
+ [[24 15  4]
+  [23 15  5]
+  [22 15  6]
+  ...
+  [ 3  3  3]
+  [ 3  3  3]
+  [ 3  3  3]]
+
+ [[25 16  5]
+  [24 16  6]
+  [23 16  7]
+  ...
+  [ 3  3  3]
+  [ 3  3  3]
+  [ 3  3  3]]]
+2026-05-25 12:22:03,009 - cam-cap - INFO - ######################################
+2026-05-25 12:22:03,009 - cam-cap - INFO - starting cam capture manipulator
+2026-05-25 12:22:03,009 - cam-cap - INFO - ######################################
+2026-05-25 12:22:11,273 - cam-cap - INFO - 2 detectable objects found
+2026-05-25 12:22:11,274 - cam-cap - INFO - a
+2026-05-25 12:22:11,274 - cam-cap - INFO - [[[68 65 57]
+  [68 65 57]
+  [68 65 57]
+  ...
+  [68 66 60]
+  [69 67 61]
+  [69 67 61]]
+
+ [[68 65 57]
+  [68 65 57]
+  [68 65 57]
+  ...
+  [68 66 60]
+  [69 67 61]
+  [69 67 61]]
+
+ [[68 66 56]
+  [68 66 56]
+  [68 66 56]
+  ...
+  [68 66 60]
+  [69 67 61]
+  [69 67 61]]
+
+ ...
+
+ [[19 10  0]
+  [19 11  1]
+  [20 13  4]
+  ...
+  [ 9  5  5]
+  [ 9  5  4]
+  [ 9  5  3]]
+
+ [[23 14  3]
+  [22 14  4]
+  [22 15  6]
+  ...
+  [ 9  5  5]
+  [ 9  5  4]
+  [ 9  5  3]]
+
+ [[25 16  5]
+  [24 16  6]
+  [24 17  8]
+  ...
+  [ 9  5  5]
+  [ 9  5  4]
+  [ 9  5  3]]]
+2026-05-25 12:24:49,003 - cam-cap - INFO - ######################################
+2026-05-25 12:24:49,003 - cam-cap - INFO - starting cam capture manipulator
+2026-05-25 12:24:49,003 - cam-cap - INFO - ######################################
+2026-05-25 12:24:57,150 - cam-cap - INFO - 2 detectable objects found
+2026-05-25 12:24:57,150 - cam-cap - INFO - [72 65 56]
+2026-05-25 12:26:11,944 - cam-cap - INFO - ######################################
+2026-05-25 12:26:11,944 - cam-cap - INFO - starting cam capture manipulator
+2026-05-25 12:26:11,944 - cam-cap - INFO - ######################################
+2026-05-25 12:26:20,197 - cam-cap - INFO - 2 detectable objects found
+2026-05-25 12:26:20,198 - cam-cap - INFO - [72 65 56]
+2026-05-25 12:26:20,198 - cam-cap - INFO - ööööööö
+2026-05-25 12:26:40,692 - cam-cap - INFO - ######################################
+2026-05-25 12:26:40,692 - cam-cap - INFO - starting cam capture manipulator
+2026-05-25 12:26:40,692 - cam-cap - INFO - ######################################
+2026-05-25 12:26:49,469 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 12:26:49,469 - cam-cap - INFO - [74 67 58]
+2026-05-25 12:26:49,470 - cam-cap - INFO - ööööööö
+2026-05-25 12:26:49,470 - cam-cap - INFO - <class 'numpy.ndarray'>
+2026-05-25 12:27:25,950 - cam-cap - INFO - ######################################
+2026-05-25 12:27:25,950 - cam-cap - INFO - starting cam capture manipulator
+2026-05-25 12:27:25,950 - cam-cap - INFO - ######################################
+2026-05-25 12:27:33,930 - cam-cap - INFO - 1 detectable objects found
+2026-05-25 12:27:33,930 - cam-cap - INFO - [75 68 59]
