@@ -2,34 +2,119 @@
 C C M
 ======================
 CamCaptureManipulation
-======================
+================== ====
 '''
 import numpy as np
 import cv2 as cv
 
 import logging
 
-# create logger with 'spam_application'
-logger = logging.getLogger('cam-cap')
-logger.setLevel(logging.DEBUG)
-# create file handler which logs even debug messages
-fh = logging.FileHandler('cam-cap.log')
-fh.setLevel(logging.DEBUG)
-# create console handler with a higher log level
-ch = logging.StreamHandler()
-ch.setLevel(logging.INFO)
-# create formatter and add it to the handlers
-formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
-fh.setFormatter(formatter)
-ch.setFormatter(formatter)
-# add the handlers to the logger
-logger.addHandler(fh)
-logger.addHandler(ch)
+class OCVDetector:
+    logger = logging.getLogger('cam-cap')
 
-sep = '######################################'
-logger.info(sep)
-logger.info('starting cam capture manipulator')
-logger.info(sep)
+    def __init__(self):
+        # create logger with 'spam_application'
+        logger = logging.getLogger('cam-cap')
+        logger.setLevel(logging.DEBUG)
+        # create file handler which logs even debug messages
+        fh = logging.FileHandler('cam-cap.log')
+        fh.setLevel(logging.DEBUG)
+        # create console handler with a higher log level
+        ch = logging.StreamHandler()
+        ch.setLevel(logging.INFO)
+        # create formatter and add it to the handlers
+        formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+        fh.setFormatter(formatter)
+        ch.setFormatter(formatter)
+        # add the handlers to the logger
+        logger.addHandler(fh)
+        logger.addHandler(ch)
+        
+        sep = '######################################'
+        logger.info(sep)
+        logger.info('starting cam capture manipulator')
+        logger.info(sep)
+
+
+    def detect_bounding_box(self, vid):
+        gray_image = cv.cvtColor(vid, cv.COLOR_BGR2GRAY)
+        faces = face_classifier.detectMultiScale(gray_image, 1.1, 5, minSize=(40, 40))
+        if(len(faces)==0):
+            self.logger.info('no detectable found')
+        else:
+            n = str(len(faces))
+            self.logger.info(n + ' detectable objects found')
+            
+        return faces
+
+    def draw_bounding_box(self, frame, detected_objects):
+        for (x,y,w,h) in detected_objects:
+            cv.rectangle(frame, (x, y), (x + w, y + h), (0, 255, 0), 4)
+        
+
+# @TODO
+# @returns largest bounding box of frames l1, l2
+    def max_bb(self, l1, l2=[]):
+        l = []
+        if(isinstance(l1, np.ndarray)):
+            l = l1
+        if(isinstance(l2, np.ndarray)):
+            l = l2
+            
+        x = l.shape[0]
+        y = l.shape[1]
+        
+        if(isinstance(l1, np.ndarray) and isinstance(l2, np.ndarray)):
+            self.logger.info('???????????')
+        
+        #TODO
+        
+        self.logger.info('now its unwrapped')    
+        self.logger.info(x[0])
+        
+        return ret
+
+    def unwrap_numpy(self, a):
+        if(not isinstance(a, np.ndarray)):
+            self.logger.info('type missmatch', 'f:unwrapping')
+            raise Exception('type missmatch', 'f:unwrapping')
+    
+        self.logger.info("unwrap_numpy\n__________________\n__________________")
+        self.logger.info(a[0])
+        self.logger.info(a[0][0])
+        self.logger.info(a[0][0])
+        t = 'variable to store type of function unwrap_numpy parameter'
+        try:
+            t=type(int(a[0][0]))
+        except TypeError:
+            self.logger.error('coud not convert numpy ndarray to python scaLar')
+            raise Exception('CRITICAL')
+            
+        
+        
+        #'CONTINUE'
+        
+        
+        
+        self.logger.info('ööööööö')
+        self.logger.info(t)
+    
+        try:
+            x = int(a[0][0])
+            y = int(a[0][1])
+            w = int(a[0][2])
+            h = int(a[0][3])
+        except:
+            raise Exception('unwrap_numpyl104')
+    
+        self.logger.info('x,y,w,h')
+        print(x)
+        self.logger.info(x)
+        
+        return (x,y,w,h)
+
+
+
 
 
 cap = cv.VideoCapture(0)
@@ -41,72 +126,9 @@ face_classifier = cv.CascadeClassifier(
     cv.data.haarcascades + "haarcascade_frontalface_default.xml"
 )
 
-def detect_bounding_box(vid):
-    gray_image = cv.cvtColor(vid, cv.COLOR_BGR2GRAY)
-    faces = face_classifier.detectMultiScale(gray_image, 1.1, 5, minSize=(40, 40))
-    if(len(faces)==0):
-        logger.info('no detectable found')
-    else:
-        n = str(len(faces))
-        logger.info(n + ' detectable objects found')
-        
-    return faces
 
-def draw_bounding_box(frame, detected_objects):
-    for (x,y,w,h) in detected_objects:
-        cv.rectangle(frame, (x, y), (x + w, y + h), (0, 255, 0), 4)
-        
-
-# @TODO
-# @returns largest bounding box of frames l1, l2
-def max_bb(l1, l2=[]):
-    l = []
-    if(isinstance(l1, np.ndarray)):
-        l = l1
-    if(isinstance(l2, np.ndarray)):
-        l = l2
-        
-    x = l.shape[0]
-    y = l.shape[1]
     
-    if(isinstance(l1, np.ndarray) and isinstance(l2, np.ndarray)):
-        logger.info('???????????')
-    
-    #TODO
-    
-    logger.info('now its unwrapped')    
-    logger.info(x[0])
-    
-    return ret
-
-def unwrap_numpy(a):
-    if(not isinstance(a, np.ndarray)):
-        logger.info('type missmatch', 'f:unwrapping')
-        raise Exception('type missmatch', 'f:unwrapping')
-
-    logger.info(a[0][0])
-    t=type(int(a[0][0]))
-    
-    
-    #'CONTINUE'
-    
-    
-    
-    logger.info('ööööööö')
-    logger.info(t)
-
-    x = int(a[0][0])
-    y = int(a[0][1])
-    w = int(a[0][2])
-    h = int(a[0][3])
-
-    logger.info('x,y,w,h')
-    print(x)
-    logger.info(x)
-    
-    return (x,y,w,h)
-    
-
+Det = OCVDetector()
 while True:
     # Capture frame-by-frame
     ret, frame = cap.read()
@@ -120,13 +142,17 @@ while True:
 
     # detct and draw bounding box
     draw = []
-    detected_objects = detect_bounding_box(frame)
+    detected_objects = Det.detect_bounding_box(frame)
     
-    draw_bounding_box(frame, detected_objects)
+    Det.draw_bounding_box(frame, detected_objects)
     
-    _f = unwrap_numpy(frame)
-    draw += max_bb(frame)
-    draw_bounding_box(frame, draw)
+    try:
+        _f = Det.unwrap_numpy(frame)
+    except:
+        Det.logger.error('\n\n\n   unwrapping of numpy array failed')
+        exit(-1)
+    draw += Det.max_bb(frame)
+    Det.draw_bounding_box(frame, draw)
     
     
     # Find Canny edges 
