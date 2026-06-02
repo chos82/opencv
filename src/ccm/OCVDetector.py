@@ -81,7 +81,7 @@ class OCVDetector:
         self.logger.info('now its unwrapped')    
         self.logger.info(x[0])
         
-        return ret
+        return None
 
     def unwrap_numpy(self, a):
         if(not isinstance(a, np.ndarray)):
@@ -144,7 +144,7 @@ class OCVDetector:
                 _f = self.unwrap_numpy(frame)
             except:
                 self.logger.error('\n\n\n   unwrapping of numpy array failed')
-                exit(-1)
+                raise Exception('unwrapping of numpy array failed')
         
             draw += self.max_bb(frame)
             self.draw_bounding_box(frame, draw)

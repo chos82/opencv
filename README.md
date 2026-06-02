@@ -2,6 +2,8 @@ NEXT STEPS:
 -----------
 - typing: either put all function and method parameters kwargs, or ...?
 - proper exceptions and their handling
+- start-up scripts for no-brain execution on shell and terminal
+- proper testing
 t.b.c...
 
 
