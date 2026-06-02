@@ -809,3 +809,45 @@ __________________
 2026-06-01 16:27:13,448 - cam-cap - INFO - [156 153 133]
 2026-06-01 16:27:13,448 - cam-cap - ERROR - coud not convert numpy ndarray to python scaLar
 2026-06-01 16:27:13,448 - cam-cap - ERROR - unwrapping of numpy array failed
+2026-06-02 10:50:37,550 - cam-cap - INFO - ######################################
+2026-06-02 10:50:37,551 - cam-cap - INFO - starting cam capture manipulator
+2026-06-02 10:50:37,551 - cam-cap - INFO - ######################################
+2026-06-02 10:50:38,460 - cam-cap - INFO - 1 detectable objects found
+2026-06-02 10:50:38,462 - cam-cap - INFO - unwrap_numpy
+__________________
+__________________
+2026-06-02 10:50:38,462 - cam-cap - INFO - [[85 76 57]
+ [86 77 58]
+ [88 79 60]
+ ...
+ [67 60 45]
+ [70 63 48]
+ [71 64 49]]
+2026-06-02 10:50:38,463 - cam-cap - INFO - [85 76 57]
+2026-06-02 10:50:38,463 - cam-cap - INFO - [85 76 57]
+2026-06-02 10:50:38,463 - cam-cap - ERROR - coud not convert numpy ndarray to python scaLar
+2026-06-02 10:50:38,464 - cam-cap - ERROR - 
+
+
+   unwrapping of numpy array failed
+2026-06-02 11:55:22,678 - cam-cap - INFO - ######################################
+2026-06-02 11:55:22,678 - cam-cap - INFO - starting cam capture manipulator
+2026-06-02 11:55:22,678 - cam-cap - INFO - ######################################
+2026-06-02 11:55:23,494 - cam-cap - INFO - no detectable found
+2026-06-02 11:55:23,494 - cam-cap - INFO - unwrap_numpy
+__________________
+__________________
+2026-06-02 11:55:23,495 - cam-cap - INFO - [[98 93 78]
+ [98 93 78]
+ [98 93 78]
+ ...
+ [66 64 54]
+ [67 65 55]
+ [68 66 56]]
+2026-06-02 11:55:23,495 - cam-cap - INFO - [98 93 78]
+2026-06-02 11:55:23,495 - cam-cap - INFO - [98 93 78]
+2026-06-02 11:55:23,495 - cam-cap - ERROR - coud not convert numpy ndarray to python scaLar
+2026-06-02 11:55:23,496 - cam-cap - ERROR - 
+
+
+   unwrapping of numpy array failed
